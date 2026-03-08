@@ -3,7 +3,7 @@ import time
 import random
 
 # Replace this with your Render app URL
-URL = "https://your-app.onrender.com/health"
+URL = "https://simple-2-2qt8.onrender.com"
 
 while True:
     try:
